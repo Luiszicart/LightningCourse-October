@@ -1,0 +1,6 @@
+{
+  "name": "hello-world",
+  "identifier": "com.metrological.app.helloworld",
+  "version": "1.0.0",
+  "icon": "./static/icon.png"
+}

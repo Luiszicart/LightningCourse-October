@@ -1,0 +1,7 @@
+{
+  "name": "com.metrological.app.flexbox",
+  "description": "flexbox",
+  "dependencies": {
+    "@lightningjs/sdk": "^5.1.0"
+  }
+}

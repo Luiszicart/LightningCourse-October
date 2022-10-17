@@ -1,0 +1,6 @@
+{
+  "name": "flexbox",
+  "identifier": "com.metrological.app.flexbox",
+  "version": "1.0.0",
+  "icon": "./static/icon.png"
+}
