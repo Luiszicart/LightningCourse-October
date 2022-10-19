@@ -1,0 +1,6 @@
+{
+  "name": "fetch",
+  "identifier": "com.metrological.app.fetch",
+  "version": "1.0.0",
+  "icon": "./static/icon.png"
+}

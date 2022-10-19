@@ -1,0 +1,7 @@
+{
+  "name": "com.metrological.app.routerwidgets",
+  "description": "router-widgets",
+  "dependencies": {
+    "@lightningjs/sdk": "^5.1.0"
+  }
+}
